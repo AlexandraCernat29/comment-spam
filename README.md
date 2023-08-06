@@ -1,6 +1,8 @@
 TensorFlow.js Front End with Node backend Boilerplate
 =================
 
+After tutorial - https://developers.google.com/codelabs/tensorflowjs-comment-spam-detection?continue=https%3A%2F%2Fdevelopers.google.com%2Flearn%2Fpathways%2Fget-started-text-classification-web%23codelab-%2Fcodelabs%2Ftensorflowjs-comment-spam-detection#0
+
 This very simple skeleton simply loads in TensorFlow.js and prints out the version once loaded to the DOM.
 
 From these humble beginnings you can do some really great things. 
